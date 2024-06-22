@@ -37,5 +37,5 @@ This project is licensed under the MIT License.
 OpenWeather for providing the weather data API.
 Background images from AlphaCoders.
 
-# Website Images
+# Website Image
 ![Page](https://github.com/Seemikumari/Weather-Finder/blob/main/images/Weather%20Finder.png)
