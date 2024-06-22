@@ -36,3 +36,6 @@ This project is licensed under the MIT License.
 # Acknowledgements
 OpenWeather for providing the weather data API.
 Background images from AlphaCoders.
+
+# Website Images
+![Page](https://github.com/Seemikumari/Weather-Finder/blob/main/images/Weather%20Finder.png)
